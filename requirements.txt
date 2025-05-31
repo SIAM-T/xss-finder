@@ -1,0 +1,32 @@
+# XSS Pro - Requirements
+# Core dependencies for XSS vulnerability scanner
+
+# HTTP requests library for web communication
+requests>=2.25.1
+
+# Cross-platform colored terminal text support
+colorama>=0.4.4
+
+# Development and testing dependencies (optional)
+# Uncomment the following lines if you want development tools
+
+# pytest>=6.2.4              # Testing framework
+# black>=21.5b0               # Code formatting
+# flake8>=3.9.2               # Code linting
+# mypy>=0.812                 # Type checking
+
+# Optional dependencies for enhanced functionality
+# urllib3>=1.26.5             # Advanced HTTP client (usually included with requests)
+# certifi>=2021.5.30          # SSL certificate verification (usually included with requests)
+
+# Note: The following are built-in Python modules and don't need installation:
+# - random
+# - logging  
+# - os
+# - sys
+# - urllib.parse
+# - argparse
+# - queue
+# - threading
+# - time
+# - datetime 
