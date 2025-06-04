@@ -28,8 +28,8 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/xss-pro.git
-cd xss-pro
+git clone https://github.com/SIAM-T/xss-finder.git
+cd xss-finder
 ```
 
 2. **Install dependencies:**
@@ -214,9 +214,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: Report bugs and request features via GitHub Issues
+- **Issues**: Report bugs and request features via [GitHub Issues](https://github.com/SIAM-T/xss-finder/issues)
 - **Documentation**: Check this README and inline code comments
-- **Community**: Join discussions in the GitHub repository
+- **Community**: Join discussions in the [GitHub repository](https://github.com/SIAM-T/xss-finder)
 
 ## ⚠️ Disclaimer
 
